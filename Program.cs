@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Password_checker
+namespace codeacademy4
 {
     internal class Program
     {
